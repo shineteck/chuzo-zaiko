@@ -3,7 +3,7 @@
 // token    : 編集用の合言葉。空のままなら、各端末で一度だけ入力します（おすすめ。ここに書くと GitHub 上で誰でも見られます）。
 // viewToken: 閲覧用の合言葉。?view の画面を入力なしで開かせたいときだけ書きます（書くと、URLを知る人は誰でも閲覧できます）。
 window.STK_CONFIG = {
-  syncUrl: "",
+  syncUrl: "https://script.google.com/macros/s/AKfycbx3rREsleR2mh3mhV9LVE9Z6Ds9B8svzsVV8haps9oK_a72ICqkwEq2F6MWBBiz2yQI/exec",
   token: "",
   viewToken: ""
 };
